@@ -87,9 +87,7 @@ COMPUTE:
 * **Virtual machine size:** Standard_DS3_V2*
 * **Number of instances:** 1  
 
+## Revisão, Deploy e teste do model  
 
-https://github.com/Natythy/automated-machine-learning/assets/88320974/4739a5b4-5b93-4c7e-a84c-654aa8cec434
-
-## Modelo criado  
 
 
