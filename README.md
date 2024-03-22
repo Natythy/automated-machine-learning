@@ -89,5 +89,10 @@ COMPUTE:
 
 ## Revisão, Deploy e teste do model  
 
+https://github.com/Natythy/automated-machine-learning/assets/88320974/c8cb0513-b82d-4558-9831-a27b2d4a3e3b  
+
+1º Clique o **nome do algorítimo** para visualizar os detalhes do melhor modelo criado;  
+
+2º Clique em **Metrics** para visualizar os gráficos **residuals** ( e **predict_chart**
 
 
