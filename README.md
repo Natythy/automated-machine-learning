@@ -95,4 +95,11 @@ https://github.com/Natythy/automated-machine-learning/assets/88320974/c8cb0513-b
 
 2º Clique em **Metrics** para visualizar os gráficos **residuals** ( e **predict_chart**
 
+3º Clique em **Deploy** e selecione a opção **Web service** e coloque as sequintes configurações:  
 
+**Name:** predict-rentals  
+**Description:** Predict cycle rentals  
+**Compute type:** Azure Container Instance  
+**Enable authentication:** Selected  
+
+4º Após o processo ser concluído, clique no nome do **Deploy** ao lado do status **succeded** e edite o código para testar o modelo.
